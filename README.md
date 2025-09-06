@@ -1,4 +1,4 @@
-# Minimal Blog Card Challenge
+# Minimal Blog Card Challenge | devChallenges.io
 
 ![Minimal Blog Card Screenshot](./thumbnail.jpg)
 
@@ -9,7 +9,7 @@ This project is a pixel-perfect implementation of the Minimal Blog Card design u
 
 | Desktop | Tablet | Mobile |
 | ------- | ------ | ------ |
-| ![Desktop](./design/Desktop_1350px.jpg) | ![Tablet](./design/Tablet_1024px.jpg) | ![Mobile](./design/Mobile_412px.jpg) |
+| ![Desktop](./design/Desktop_1350px.jpg) | ![Tablet](./design/Tablet_1024px.jpg) | <img width="412" height="823" alt="image" src="https://github.com/user-attachments/assets/525546cd-233e-4e17-b7be-46312d000380" /> |
 
 
 ## 🚀 Features
@@ -40,9 +40,6 @@ To view or use this project locally:
 ## 📱 Responsive Design
 The card layout is fully responsive and adapts seamlessly to various screen sizes. To test responsiveness, simply resize your browser window or view the project on different devices.
 
-
-
-
 ---
 
 ## 💡 Reflections & Learnings
@@ -51,10 +48,3 @@ This project provided an excellent opportunity to practice:
 - Managing spacing, typography, and color for visual consistency
 - Building a component that is both visually appealing and accessible
 - Ensuring cross-device compatibility and responsiveness
-
-
----
-
-## 👤 Author
-Coded by **Ayokanmi Adejola**  
-Challenge by [devChallenges.io](https://devchallenges.io/)
