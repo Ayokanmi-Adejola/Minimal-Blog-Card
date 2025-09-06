@@ -1,15 +1,16 @@
 # Minimal Blog Card Challenge
 
-A solution to the [Minimal Blog Card challenge](https://devchallenges.io/challenges/dYAg6eF4-YkJwQ06hNQd) on devChallenges.io.
-
 ![Minimal Blog Card Screenshot](./thumbnail.jpg)
 
----
 
 ## 📋 Overview
 This project is a pixel-perfect implementation of the Minimal Blog Card design using semantic HTML5 and modern CSS3. The goal was to accurately replicate the provided design, ensuring responsiveness, accessibility, and clean code structure. All assets are included in the `/resources` folder.
 
----
+
+| Desktop | Tablet | Mobile |
+| ------- | ------ | ------ |
+| ![Desktop](./design/Desktop_1350px.jpg) | ![Tablet](./design/Tablet_1024px.jpg) | ![Mobile](./design/Mobile_412px.jpg) |
+
 
 ## 🚀 Features
 - Fully responsive layout for desktop, tablet, and mobile
